@@ -34,4 +34,5 @@ Visit my website at: https://yourusername.github.io/my-website
 
 ## Author
 
-[Your Name]
+Harika
+This README was updated directly on GitHub to practice git pull!
